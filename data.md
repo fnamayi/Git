@@ -6,8 +6,8 @@
 
 ## Configuration
 - Configure Git with your username and email address using:
- * git config --global user.name "Franklyne "
- * git config --global user.email "franklynenm@gmail.com"
+ * git config --global user.name "Your Name"
+ * git config --global user.email "your.email@example.com"
 
 
 ## Git Commits
@@ -413,5 +413,7 @@ git push shared main
     git pull shared main
     
 ```
+
+
 
 
